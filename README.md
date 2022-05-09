@@ -1,1 +1,0 @@
-# -teamcityNotifierV2.0
